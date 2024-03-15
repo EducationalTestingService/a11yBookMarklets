@@ -1,4 +1,4 @@
-#CSUN ATC 2024 Workshop: Using Generative AI as your Accessibility Testing Assistant
+# CSUN ATC 2024 Workshop: Using Generative AI as your Accessibility Testing Assistant
 
 This github repo contains supporting materials and code used in the workshop being led by mhakkinen@ets.org, bjohnson007@ets.org, and ssaharasbudhe@ets.org during the CSUN Assistive Technology Conference 2024.
 
