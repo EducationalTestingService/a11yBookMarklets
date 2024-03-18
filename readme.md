@@ -2,6 +2,20 @@
 
 This github repo contains supporting materials and code used in the workshop being led by mhakkinen@ets.org, bjohnson007@ets.org, and ssaharasbudhe@ets.org during the CSUN Assistive Technology Conference 2024.
 
+## Recommended Generative AI Tools
+
+### Cloud Based
+* [OpenAI ChatGPT 4] (https://chat.openai.com)
+* [Anthropic Claude](https://claude.ai)
+* [Microsoft CoPilot] (https://copilot.microsoft.com)
+
+### Local (on your own PC/Mac)
+
+* [gpt4all.io](https://gpt4all.io)
+* [lmstudio.ai](https://lmstudio.ai)
+
+Note for the local tools, you can download a growing variety of open source LLMs.
+
 ## Bookmarklets
 
 The key output of this workshop are AI generated "accessibility bookmarklets".  These bookmarklets address specific accessibility testing tasks or needs not handled by off the shelf accessiblity testing tools.  The bookmarklet folder will contains the
