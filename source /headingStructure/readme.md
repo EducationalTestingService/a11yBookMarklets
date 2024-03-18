@@ -2,5 +2,5 @@
 
 ## Install Instructions
 
-Go to the [Install Page](https://ets-research.org/mhakkinen/bookmarklets/headingStructure.html) for this bookmarklet, and then drag the bookmarklet link to your browser's bookmark bar.
+Go to the [Install Page](https://ets-research.org/mhakkinen/bookmarklet/headingStructure.html) for this bookmarklet, and then drag the bookmarklet link to your browser's bookmark bar.
 

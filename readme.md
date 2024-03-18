@@ -9,3 +9,17 @@ the source code a variety of bookmarklets demonstrated during during the worksho
 
 For each bookmarklet, you should include the generative AI used (e.g., chatGPT, coPilot, etc), the prompt used to generate the bookmarketlet, the resulting source code (which may be compressed).
 
+### Check for Transcripts
+
+[Check for Transcripts Source Code](/source%20/transcriptCheck/)
+
+## Show Aria Labels
+
+[Show Aria Labels](/source%20/highlightAriaLabels/)
+
+### Heading Structure Bookmarklet
+
+[Heading Structure Source Code](/source%20/headingStructure/)
+
+
+
