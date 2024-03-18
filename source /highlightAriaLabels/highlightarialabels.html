@@ -1,0 +1,10 @@
+<html lang="en">
+
+<head>
+    <title>CSUN Bookmarklet Highlight Aria Labels</title>
+</head>
+<body><h1>Highlight Aria Labels Bookmarklet</h1>
+<p>Copy the bookmark link below to your browser's bookmark bar.</p>
+<a href="javascript:(function() {    var formFields = document.querySelectorAll('input, select, textarea');    formFields.forEach(function(field) {        var label = '';        var ariaLabel = field.getAttribute('aria-label');        var id = field.id;        if (id) {            label = document.querySelector('label[for=&quot;' + id + '&quot;]');            label = label ? label.textContent.trim() : %27%27;        }        var fieldInfo = document.createElement(%27div%27);        fieldInfo.style = %27border: 3px dotted red; padding: 5px; margin-bottom: 5px; color: red%27;        fieldInfo.innerHTML = %27&lt;strong&gt;Field:&lt;/strong&gt; %27 + field.nodeName.toLowerCase() + %27&lt;br&gt;%27 +                              %27&lt;strong&gt;Label:&lt;/strong&gt; %27 + (label || %27No label found%27) + %27&lt;br&gt;%27 +                              %27&lt;strong&gt;Aria-label:&lt;/strong&gt; %27 + (ariaLabel || %27No aria-label found%27);        field.parentNode.insertBefore(fieldInfo, field.nextSibling);    });})(); 
+">Heading Structure Bookmarklet</a>
+</body></html>
